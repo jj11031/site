@@ -1,0 +1,24 @@
+---
+title: "Jayjit Das"
+image: ProfilePic.jpg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jj11031
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UC8mDM7mOlwQ6aw6nCY-q2Xw
+    - icon: linkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jayjit-das-b1424171/
+    - icon: envelope
+      text: Contact me
+      href: mailto:jayjit11031@gmail.com
+---
+
+Student and practitioner of data science and ecology with > 5 years of eclectic experience across sectors and geographies. Passionate to work on projects involving data-driven decision making and storytelling via data visualization.
+

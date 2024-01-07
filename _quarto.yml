@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  page-footer:
+    right: |
+     [Contact Jayjit Das](mailto:jayjit11031@gmail.com)
+    left:  |
+     Made with [Quarto](https://quarto.org/)
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Curriculum vitae
+        href: curriculum vitae.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: youtube
+        href: https://www.youtube.com/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
